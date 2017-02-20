@@ -1,0 +1,18 @@
+1
+3
+Ce este a in float a[10][10]?
+ cum se numeste un char cu mai multe caractere?
+ Cum se poate pune un comentariu?
+ 2 2 1 
+2
+3
+Cat ocupa un int?
+ Cat ocupa un pointer?
+ Cat ocupa un caracter char?
+ 3 2 4 
+3
+3
+Dati exemplu de o varianta de supraincarcare a operatorului ++.
+ Dati exemplu de o varianta de deschidere a unui fisier text.
+ Ce operator trrebuie implementat pentru a realiza operatia "a1=a2"?
+ 5 4 3 

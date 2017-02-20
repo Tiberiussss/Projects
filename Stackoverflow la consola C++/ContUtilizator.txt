@@ -1,0 +1,115 @@
+12
+1
+Mohor Iulia
+21
+IT
+F
+2
+Misys
+Tech
+0 7 4 5 1 7 9 4 0 4 
+2
+Prunceac Tiberiu
+20
+Economic
+M
+1
+BCR
+0 7 2 9 5 4 4 8 6 4 
+3
+Popescu Mihaela
+39
+Invatamant
+F
+1
+ASE
+0 7 3 5 4 7 7 9 4 5 
+4
+Mina Andrei
+23
+Agricol
+M
+2
+Agro
+Ageillo
+0 2 4 9 5 6 8 7 4 6
+5
+Savu Gabriel
+26
+Turism
+M
+2
+Atlantis
+TurGhid
+0 7 4 9 2 2 2 1 7 7 
+6
+Moise Alexandru
+45
+Constructii
+M
+1
+Dedeman
+0 7 2 9 8 4 4 5 1 9 
+7
+Radu Stefania
+29
+Electronic
+F
+3
+Enel
+UPC
+RCS&RDS
+0 7 6 5 4 2 3 4 4 2 
+8
+Savu Mihai
+29
+Transporturi
+M
+3
+MWTrade
+WhiteLand
+Kelleog's
+0 7 4 9 6 0 0 1 6 1 
+9
+Dragomir Andreea
+25
+Publicitate
+F
+1
+Metro
+0 7 6 0 0 6 6 2 4 2
+10
+Popa Cristian
+24
+Jurnalism
+M
+3
+Click
+Adevarul
+Ring
+0 7 5 4 7 8 0 0 1 7
+11
+Guvidu Alexandru
+51
+Sport
+M
+1
+Rapid
+0 2 4 9 5 6 3 2 8 3 
+12
+Grigore Alina
+47
+Economic
+F
+2
+Phireus
+BancPost
+0 7 2 9 8 6 7 3 2 2 
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+1
+3
+Popescu Mihaela
+39
+Invatamant
+F
+1
+Profesor
+0 7 3 5 4 7 7 9 4 5
+13.10.2010
+2
+Poate vizualiza intrebarile 
+ Poate vizualiza raspunsurile
+a

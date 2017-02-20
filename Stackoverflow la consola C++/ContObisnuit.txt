@@ -1,0 +1,133 @@
+10
+1
+Mohor Iulia
+21
+IT
+F
+2
+Misys
+Tech
+0 7 4 5 1 7 9 4 0 4
+Corabia, judetul Olt
+08.01.1996
+necasatorita
+o
+2
+Prunceac Tiberiu
+20
+Economic
+M
+1
+BCR
+0 7 2 9 7 7 7 5 4 5
+Cernavoda, judetul Constanta
+27.01.1997
+necasatorit
+o
+4
+Mina Andrei
+23
+Agricol
+M
+2
+Agro
+Agrillo
+0 2 4 9 5 6 8 7 4 6
+Bucuresti, str. Pandurii, nr. 122
+19.03.1993
+casatorit
+o
+6
+Moise Alexandru
+45
+Constructii
+M
+1
+Dedeman
+0 7 2 9 8 4 4 5 1 9
+Titu, judetul Dambovita
+31.01.1969
+casatorit
+o
+7
+Radu Stefania
+29
+Electronic
+F
+3
+Enel
+UPC
+RCS&RDS
+0 7 6 5 4 2 3 4 4 2
+Giurgiu, judetul Giurgiu
+19.10.1978
+necasatorita
+o
+8
+Savu Mihai
+29
+Transporturi
+M
+3
+MWTrade
+WhiteLand
+Kelleog's
+0 7 4 9 6 0 0 1 6 1
+Rosetti, judetul Calarasi
+21.07.1987
+necasatorit
+o
+9
+Dragomir Andreea
+25
+Publicitate
+F
+1
+Metro
+0 7 6 0 0 6 6 2 4 2
+Buzau, judetul Buzau
+21.02.1992
+necasatorita
+o
+10
+Popa Cristian
+24
+Jurnalism
+M
+3
+Click
+Adevarul
+Ring
+0 7 5 4 7 8 0 0 1 7
+Calarasi, judetul Calarasi
+10.06.1990
+nacasatorit
+o
+11
+Guvidu Alexandru
+51
+Sport
+M
+1
+Rapid
+0 2 4 9 5 6 3 2 8 3
+Cravoia, judetul Dolj
+06.12.1965
+casatorit
+o
+12
+Grigore Alina
+47
+Economic
+F
+2
+Phireus
+BancPost
+0 7 2 9 8 6 7 3 2 2
+Arad, judetul Arad
+10.10.1969
+casatorita
+o
+ 
+
+
